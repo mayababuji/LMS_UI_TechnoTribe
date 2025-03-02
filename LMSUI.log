@@ -1,0 +1,7 @@
+2025-03-02 12:11:25.828 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-02 12:11:25.835 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-02 12:12:53.362 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-02 12:13:07.097 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://feb-ui-hackathon-bbfd38d67ea9.herokuapp.com/
+2025-03-02 12:13:21.407 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-02 12:13:21.410 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-02 12:13:21.411 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
