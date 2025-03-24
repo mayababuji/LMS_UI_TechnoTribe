@@ -14,6 +14,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
+import hooks.DriverFactory;
 import hooks.TestContext;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -29,6 +30,7 @@ public class LoginStepDef {
 	WebDriver driver;
 	TestContext context;
 	ReadConfig readConfig;
+	DriverFactory df;
 
 	LoginPage loginPage;
 	HomePage homePage;
@@ -39,23 +41,32 @@ public class LoginStepDef {
 
 	public LoginStepDef(TestContext Context) {
 		this.context = Context;
-		this.driver = context.getDriver();
+		//this.driver = context.getDriver();
+		//this.driver = DriverFactory.getDriver();
 		this.readConfig = new ReadConfig();
 		softAssert = new SoftAssert();
+		df = new DriverFactory();
 	}
 
 	// @TTLPH2-16 Verify Admin is able to land on login page
 	@Given("The browser is open")
 	public void the_browser_is_open() {
 		String browserName = readConfig.getbrowser();
-		driver = context.getDriverFactory().initialiseBrowser(browserName);
+		System.out.println("Browser Name = " + browserName);
+		//driver = context.getDriverFactory().initialiseBrowser(browserName);
+		driver = df.initialiseBrowser(browserName);
+		
 	}
 
 	@Given("Admin gives the correct LMS portal URL")
 	public void admin_gives_the_correct_lms_portal_url() {
 
-		context.setDriver(driver);
-		context.getDriver().get(readConfig.getApplicationURL());
+//		context.setDriver(driver);
+//		context.getDriver().get(readConfig.getApplicationURL());
+		System.out.println("Application URL at runtime = " + readConfig.getApplicationURL());
+		//driver.get(readConfig.getApplicationURL());
+		DriverFactory.getDriver().get(readConfig.getApplicationURL());
+		driver = DriverFactory.getDriver();
 
 	}
 

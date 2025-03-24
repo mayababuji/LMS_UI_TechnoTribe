@@ -19,8 +19,10 @@ import utilities.ReadConfig;
 				"rerun:target/rerun.txt"
 		})
 
+//mvn clean test --> 
+
 public class TestRunner extends AbstractTestNGCucumberTests {
-	private static ThreadLocal<String> browser = new ThreadLocal<>();
+	//private static ThreadLocal<String> browser = new ThreadLocal<>();
 	@Override
 	@DataProvider(parallel = true)
 	public Object[][] scenarios() {

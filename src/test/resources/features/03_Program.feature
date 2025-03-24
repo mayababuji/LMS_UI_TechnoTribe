@@ -94,7 +94,7 @@
     #When Admin clicks "Program" on the navigation bar
     #Then Admin should see the footer with total programs
 #
-  # --------------------------------Add New Program------------------------------------------------------
+   #--------------------------------Add New Program------------------------------------------------------
   #@TC16 @ManageProgramPageValidation
   #Scenario: Verify sub menu displayed in program menu bar
     #Given Admin is on Program page
@@ -234,7 +234,7 @@
       #| InvalidProgName        |
       #| InvalidProgDesc        |
       #| InvalidExistingProgBug |
-  #   | InvalidExistingProgName |
+     #| InvalidExistingProgName |
   #@TC36 @AddNewProgramNeagtive
   #Scenario Outline: Verify Add New Program with already existing Program Name
     #Given Admin is on Program details form

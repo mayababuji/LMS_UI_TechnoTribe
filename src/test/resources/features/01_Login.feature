@@ -1,15 +1,15 @@
 #Author: Tohfatul SDET126
-#@TTLPH2-1 @login @regression
-#Feature: Login Page
-#
-#	Background:
-#		Given The browser is open
-#	  And Admin gives the correct LMS portal URL
-#	
-#	@TTLPH2-16 
-  #Scenario: Verify Admin is able to land on login page
-    #Then Admin lands on login page
+@TTLPH2-1 @login @regression
+Feature: Login Page
 
+	Background:
+		Given The browser is open
+	  And Admin gives the correct LMS portal URL
+	
+	@TTLPH2-16 
+  Scenario: Verify Admin is able to land on login page
+    Then Admin lands on login page
+#
 #	@TTLPH2-12 @smoke
   #Scenario: Validate login with valid data in all field
     #Given Admin lands on login page
@@ -57,7 +57,7 @@
     #Then Error message "Please enter your password"   
     #
 #
-################# ADDITIONAL SCENARIOS ################################
+################ ADDITIONAL SCENARIOS ################################
 #		@TTLPH2-103
 #		Scenario: Additional_Validate login with Empty credentials and No Role selected
 #		Given Admin lands on login page
@@ -76,14 +76,14 @@
     #Given Admin lands on login page
     #When Admin enters valid credentials but selects no role
 #		Then Error message "Please select your Role"
-    #
-    ################# NON-FUNCTIONAL SCENARIOS ################################
-    #
+    
+    ################ NON-FUNCTIONAL SCENARIOS ################################
+    
     #@TTLPH2-30 @TTLPH2-131
     #Scenario: Verify dropdown option to select role
     #Given Admin lands on login page
 #		Then Admin should see "Admin","Staff" and "Student" options in dropdown
-#		
+		
     #@TTLPH2-22 @TTLPH2-133
     #Scenario: Validate sign in content
     #Given Admin lands on login page
@@ -92,8 +92,8 @@
 #		@TTLPH2-18 @TTLPH2-136
 #		Scenario: Verify for broken link
 #		Then If HTTP response >= 400, then the link is broken
-#		
-#		
+		
+		
 #		@TTLPH2-17 @TTLPH2-138 @defectToBeRaised-3
 #		Scenario Outline: Verify Admin is not able to land on home page with invalid URL - "<TestCase>"
 #		When Admin gives the invalid LMS portal URL for test case "<TestCase>"
@@ -110,22 +110,22 @@
     #| Missing_TopLevelDomain  |
     #| NonExistenSubDomain     |
     #| InvalidCharacters       |
-#
-    #
-       #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
+
+    
+       
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
           

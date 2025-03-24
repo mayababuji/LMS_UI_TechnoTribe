@@ -11,23 +11,23 @@ Feature: Home Page
     When Admin enter valid data in all field and clicks login button
     Then Admin should see LMS -Learning management system as title
 
-  #@Scenario2_homePage
-  #Scenario: Verify LMS title alignment
-    #Given Admin lands on login page
-    #When Admin enter valid data in all field and clicks login button
-    #Then LMS title should be on the top left corner of page
-#
+  @Scenario2_homePage
+  Scenario: Verify LMS title alignment
+    Given Admin lands on login page
+    When Admin enter valid data in all field and clicks login button
+    Then LMS title should be on the top left corner of page
+
   #@Scenario3_homePage
   #Scenario: Validate navigation bar text
     #Given Admin lands on login page
     #When Admin enter valid data in all field and clicks login button
     #Then Admin should see correct spelling in navigation bar text
 #
-  #@Scenario4_homePage
-  #Scenario: Validate LMS title has correct spelling and space
-    #Given Admin lands on login page
-    #When Admin enter valid data in all field and clicks login button
-    #Then Admin should see correct spelling and space in LMS title
+  @Scenario4_homePage
+  Scenario: Validate LMS title has correct spelling and space
+    Given Admin lands on login page
+    When Admin enter valid data in all field and clicks login button
+    Then Admin should see correct spelling and space in LMS title
 #
   #@Scenario5_homePage
   #Scenario: Validate alignment for navigation bar

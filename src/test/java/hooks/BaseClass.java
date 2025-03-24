@@ -26,11 +26,12 @@ public class BaseClass {
 
 	private TestContext context;
 	private ReadConfig readConfig;
-
+	private DriverFactory df;
 	// inject TestContext constructor
 	public BaseClass(TestContext Context) {
 		this.context = Context;
 		readConfig = new ReadConfig();
+		df = new DriverFactory();
 	}
 
 	@BeforeAll
@@ -61,8 +62,10 @@ public class BaseClass {
 			//browserName = readConfig.getbrowser();
 			browserName=System.getProperty("browserProperty");
 		}
-			
-		WebDriver driver = context.getDriverFactory().initialiseBrowser(browserName);
+		browserName = readConfig.getbrowser();
+		//WebDriver driver = context.getDriverFactory().initialiseBrowser(browserName);
+		//context.setDriver(driver);
+		WebDriver driver = df.initialiseBrowser(browserName);
 		context.setDriver(driver);
 		Log.logInfo("Navigating to: " + readConfig.getApplicationURL());
 		context.getDriver().get(readConfig.getApplicationURL());

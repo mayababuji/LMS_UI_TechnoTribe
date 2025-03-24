@@ -1,7 +1,352 @@
-2025-03-02 12:11:25.828 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
-2025-03-02 12:11:25.835 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
-2025-03-02 12:12:53.362 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
-2025-03-02 12:13:07.097 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://feb-ui-hackathon-bbfd38d67ea9.herokuapp.com/
-2025-03-02 12:13:21.407 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
-2025-03-02 12:13:21.410 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
-2025-03-02 12:13:21.411 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:25:43.087 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:25:43.087 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:25:43.087 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:25:56.641 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:25:56.641 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:25:56.641 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:26:30.679 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:26:30.684 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:26:30.689 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:26:32.762 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:26:32.774 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:26:32.774 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:26:47.136 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:26:48.099 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:28:44.440 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:28:44.440 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:28:44.440 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:28:57.592 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:28:57.592 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:28:57.723 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:29:32.905 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:29:32.910 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:29:32.914 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:29:35.691 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:29:35.696 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:29:35.696 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:29:36.579 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:29:36.585 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:29:36.586 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:30:22.801 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:30:22.801 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:30:22.801 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:30:35.339 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:30:35.347 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:30:35.347 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:31:05.707 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:31:05.713 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:31:05.715 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:31:09.794 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:31:09.796 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:31:09.796 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:31:10.297 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:31:10.297 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:31:10.297 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:31:13.779 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:31:13.779 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:31:13.781 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:31:23.137 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:31:23.137 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:31:23.137 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:31:58.276 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:31:58.278 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:31:58.278 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:31:59.525 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:31:59.530 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:31:59.530 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:31:59.887 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:31:59.888 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:31:59.889 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:32:00.262 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:32:00.262 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:32:00.266 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:32:09.886 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:32:09.886 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:32:09.886 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:32:43.181 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:32:43.184 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:32:43.185 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:32:43.386 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:32:43.387 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:32:43.387 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:32:44.253 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:32:44.254 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:32:44.254 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:37:16.665 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:37:16.665 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:37:16.665 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:37:30.403 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:37:30.412 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:37:30.413 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:38:05.029 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:38:05.033 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:38:05.036 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:38:05.247 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:38:05.248 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:38:05.248 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:38:05.420 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:38:05.422 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:38:05.422 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:38:08.418 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:38:08.423 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:38:08.424 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:38:17.705 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:38:17.713 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:38:17.713 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:38:52.935 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:38:52.951 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:38:52.952 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:38:53.487 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:38:53.488 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:38:53.488 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:38:53.553 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:38:53.554 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:38:53.554 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:38:53.872 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:38:53.873 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:38:53.877 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:39:04.250 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:39:04.250 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:39:04.259 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:39:42.894 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:39:42.898 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:39:42.898 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:39:43.201 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:39:43.202 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:39:43.202 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:39:43.696 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:39:43.697 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:39:43.697 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:39:58.759 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:39:58.759 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:39:58.759 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:40:09.323 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:40:09.329 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:40:09.329 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:40:42.474 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:40:42.478 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:40:42.480 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:40:45.108 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:40:45.112 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:40:45.112 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:40:45.451 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:40:45.453 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:40:45.453 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:48:30.471 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:48:30.471 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:48:30.471 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:48:41.992 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:48:41.992 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:48:41.992 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:49:18.329 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:49:18.340 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:49:18.370 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:49:19.188 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:49:19.190 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:49:19.190 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:49:19.549 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:49:19.550 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:49:19.550 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:49:23.035 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:49:23.040 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:49:23.040 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:49:33.653 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:49:33.653 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:49:33.653 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:50:10.429 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:50:10.441 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:50:10.441 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:50:10.754 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:50:10.757 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:50:10.757 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:50:11.648 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:50:11.649 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:50:11.649 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:50:11.959 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:50:11.962 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:50:11.963 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:50:27.161 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:50:27.161 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:50:27.161 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:50:55.172 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:50:55.179 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:50:55.180 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:50:57.755 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:50:57.756 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:50:57.756 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:50:58.490 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:50:58.491 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:50:58.491 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:55:09.796 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:55:09.796 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:55:09.796 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:55:20.021 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:55:20.021 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:55:20.021 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:55:52.071 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:55:52.076 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:55:52.117 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:55:56.730 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:55:56.732 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:55:56.733 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:55:57.347 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:55:57.348 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:55:57.348 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:55:59.943 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:55:59.945 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:55:59.946 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:56:08.950 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:56:08.950 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:56:08.950 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:56:42.673 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:56:42.676 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:56:42.676 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:56:44.688 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:56:44.689 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:56:44.689 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:56:45.687 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:56:45.688 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:56:45.688 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:56:45.981 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:56:45.983 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:56:45.985 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 09:56:54.350 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:56:54.350 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:56:54.354 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 09:57:26.037 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 09:57:26.042 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:57:26.042 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:57:26.728 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 09:57:26.729 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:57:26.729 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 09:57:26.847 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 09:57:26.848 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 09:57:26.848 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:20:22.713 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:20:34.461 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:20:49.669 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:20:49.672 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:20:49.907 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:20:49.907 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:20:49.921 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:20:49.962 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:20:49.962 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:20:49.968 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:20:49.998 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:20:49.998 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:20:50.001 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:20:50.028 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:20:50.028 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:20:50.031 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:20:50.065 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:20:50.065 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:20:50.067 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:20:50.211 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:20:50.211 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:20:54.510 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 10:20:54.512 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:20:54.512 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:20:58.151 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:21:07.151 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:21:17.850 INFO [main] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 10:21:17.853 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:21:17.853 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:21:17.966 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:21:17.966 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:21:17.970 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:21:17.981 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:21:17.981 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:21:17.983 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:21:17.995 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:21:17.995 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:21:17.997 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:21:18.021 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:21:18.022 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:21:18.023 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:22:35.921 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:22:46.682 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:23:02.453 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:23:02.456 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:23:02.701 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:23:02.701 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:23:02.713 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:23:02.744 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:23:02.744 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:23:02.751 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:23:02.785 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:23:02.785 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:23:02.789 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:23:02.914 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:23:02.914 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:23:07.644 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 10:23:07.645 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:23:07.645 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:23:10.326 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:23:18.931 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:23:30.133 INFO [main] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 10:23:30.134 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:23:30.134 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:23:30.254 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:23:30.254 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:23:30.256 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:23:30.266 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:23:30.266 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:23:30.267 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:24:08.298 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:24:18.406 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:24:34.164 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:24:34.167 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:24:34.424 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:24:34.424 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:24:34.442 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:24:34.474 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:24:34.474 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:24:34.479 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:24:34.490 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:24:34.490 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:24:40.222 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 10:24:40.224 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:24:40.224 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:24:44.753 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:24:55.188 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:25:06.067 INFO [main] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 10:25:06.069 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:25:06.069 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:25:06.211 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:25:06.211 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:25:06.216 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:25:42.322 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:25:42.322 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:25:42.322 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:25:52.323 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:25:52.323 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:25:52.323 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:26:28.962 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 10:26:28.968 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:26:28.972 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:26:30.178 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 10:26:30.179 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:26:30.179 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:26:30.346 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 10:26:30.347 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:26:30.347 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:27:34.006 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:27:34.006 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:27:45.091 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:27:45.091 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:28:03.113 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:28:03.116 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:28:03.523 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:28:03.524 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:28:03.565 INFO [TestNG-PoolService-0] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:28:15.972 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - The LMS page title is LMS
+2025-03-24 10:28:15.974 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:28:15.974 INFO [TestNG-PoolService-1] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:28:16.425 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - The coordinates of LMS title are (0, 0)
+2025-03-24 10:28:16.427 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:28:16.427 INFO [TestNG-PoolService-2] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver
+2025-03-24 10:28:19.356 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Initializing WebDriver
+2025-03-24 10:28:27.906 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Navigating to: https://playwright-frontend-app-a9ea85794ad9.herokuapp.com/login
+2025-03-24 10:28:38.767 INFO [main] [utilities.Log.logInfo(Log.java:13)] - The admin sees the correct spelling in LMS title
+2025-03-24 10:28:38.769 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Screenshots for failed
+2025-03-24 10:28:38.769 INFO [main] [utilities.Log.logInfo(Log.java:13)] - Closing WebDriver

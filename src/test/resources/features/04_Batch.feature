@@ -1,5 +1,5 @@
 #Author: Mathumathi Balakrishnan
-#
+
 #@batch 
 #Feature: Batch Page
 #
@@ -12,7 +12,7 @@
 #Scenario: Verify Admin Navigate to Batch page successfully
   #When Admin clicks "Batch" on the navigation bar
   #Then Admin should be in the Manage Batch Page
-#
+
 #--------------------------Batch Page Validation----------------------------# 
 #
 #@TCB2 @batchPageValidation

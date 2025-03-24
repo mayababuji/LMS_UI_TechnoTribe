@@ -71,6 +71,7 @@ public class LoginPage {
 		util.doSendKeys(this.password, password);
 
 		// Role
+		/*
 		util.doClick(dropDownArraow);
 
 		if (role == null || role.isBlank()) {
@@ -80,7 +81,7 @@ public class LoginPage {
 		} else {
 			By roleOption = By.xpath("//span[normalize-space()='" + role + "']");
 			util.doClick(roleOption);
-		}
+		}*/
 
 		// Clicking on Button option
 		if (keyboardOrMouseClick.length == 0) {// if nothing is specified in 4th parameter

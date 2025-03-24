@@ -47,13 +47,13 @@
   #| SMPO33    |Java       |Core Java        | 02/28/2025 |Sarnaya   |Active |Successful |
   #
   #@TTLPH2-195 @unimplemented
-  # Scenario Outline: Check if class is created when invalid data is  entered in Class Details form
+   #Scenario Outline: Check if class is created when invalid data is  entered in Class Details form
   #Given clicks add new class under the class menu bar
-  # When Admin enters mandatory fields "<BatchName>" "<ClassTopic>" "<ClassDescription>" "<month>" "<date1>"  "<StaffName>" "<Status>" "<SuccessMsg>" in the form and clicks on save button
-  # Then Admin gets message Class  is not created
+   #When Admin enters mandatory fields "<BatchName>" "<ClassTopic>" "<ClassDescription>" "<month>" "<date1>"  "<StaffName>" "<Status>" "<SuccessMsg>" in the form and clicks on save button
+   #Then Admin gets message Class  is not created
   #Examples:
-  #  | BatchName |  | ClassTopic |  | ClassDescription |  | month    |  | date       |  | StaffName |  | Status   |  | SuccessMsg   |  |
-  #  | SMPO33    |  | @@@@       |  | @#$%^&**         |  | February |  | 03/28/2000 |  | Sarnaya   |  | Inactive |  | Unsuccessful |  |
+    #| BatchName |  | ClassTopic |  | ClassDescription |  | month    |  | date       |  | StaffName |  | Status   |  | SuccessMsg   |  |
+    #| SMPO33    |  | @@@@       |  | @#$%^&**         |  | February |  | 03/28/2000 |  | Sarnaya   |  | Inactive |  | Unsuccessful |  |
   #
   #@TTLPH2-151
   #Scenario Outline: Check if class is created when only optional fields are entered with valid data

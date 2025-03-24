@@ -5,6 +5,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import java.util.List;
+
+import hooks.DriverFactory;
 import hooks.TestContext;
 import io.cucumber.java.en.Then;
 import pageObjects.LoginPage;
@@ -22,7 +24,8 @@ public class HomePageStepDef {
 
 	public HomePageStepDef(TestContext Context) {
 		this.context = Context;
-		driver = context.getDriver();
+		//driver = context.getDriver();
+		this.driver = DriverFactory.getDriver();
 		this.readConfig = new ReadConfig();
 		homePage = new HomePage(driver);
 		loginPage = new LoginPage(driver);

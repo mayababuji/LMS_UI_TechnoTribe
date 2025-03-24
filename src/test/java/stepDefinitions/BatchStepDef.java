@@ -7,6 +7,7 @@ import java.util.List;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
+import hooks.DriverFactory;
 import hooks.TestContext;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -32,7 +33,8 @@ public class BatchStepDef {
 
 	public BatchStepDef(TestContext context) {
 		this.context = context;
-		this.driver = context.getDriver();
+		//this.driver = context.getDriver();
+		this.driver = DriverFactory.getDriver();
 		this.readConfig = new ReadConfig();
 		batchPage = new BatchPage(driver);
 		homePage = new HomePage(driver);

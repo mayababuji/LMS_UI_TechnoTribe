@@ -6,7 +6,7 @@
         <parameter name="browser" value="Chrome"></parameter>
         <classes>
             <class name="testRunner.TestRunner"/>
-            <!--<class name="testRunner.RerunTestRunner"/>-->
+            <class name="testRunner.RerunTestRunner"/>
         </classes>
     </test>  
    <!-- <test name="Testfirefox">

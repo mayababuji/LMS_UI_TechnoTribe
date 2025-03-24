@@ -8,6 +8,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
+import hooks.DriverFactory;
 import hooks.TestContext;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -33,7 +34,8 @@ public class ClassStepDef {
 
 	public ClassStepDef(TestContext context) {
 		this.context = context;
-		driver = context.getDriver();
+		//driver = context.getDriver();
+		this.driver = DriverFactory.getDriver();
 		// classPage = new ClassPage(driver, context);
 		classPage = new ClassPage(driver);
 		readConfig = new ReadConfig();
